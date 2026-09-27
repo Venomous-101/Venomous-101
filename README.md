@@ -141,8 +141,14 @@ flowchart TD
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Venomous-101&show_icons=true&theme=tokyonight&bg_color=0a0a0f&text_color=00f0ff&icon_color=00ff88&title_color=ff2d2d&border_color=1e293b&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venomous-101&layout=compact&theme=tokyonight&bg_color=0a0a0f&text_color=00f0ff&title_color=ff2d2d&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Venomous-101&show_icons=true&theme=tokyonight&bg_color=0a0a0f&text_color=00f0ff&icon_color=00ff88&title_color=ff2d2d&border_color=1e293b&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Venomous-101&layout=compact&theme=tokyonight&bg_color=0a0a0f&text_color=00f0ff&title_color=ff2d2d&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venomous-101&color=00f0ff&style=for-the-badge&label=SYSTEM+ACCESS+TELEMETRY" alt="Profile Views Telemetry" />
 </div>
 
 ---
