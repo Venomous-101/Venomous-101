@@ -89,7 +89,7 @@ flowchart TD
   <tr>
     <td width="25%" valign="top"><b>Runtime & Backends</b></td>
     <td width="75%">
-      <code>Python 3.12+</code> &bull; <code>TypeScript</code> &bull; <code>FastAPI</code> &bull; <code>Node.js</code> &bull; <code>AsyncIO</code> &bull; <code>Uvicorn</code> &bull; <code>Next.js 15</code>
+      <code>Python </code> &bull; <code>TypeScript</code> &bull; <code>FastAPI</code> &bull; <code>Node.js</code> &bull; <code>AsyncIO</code> &bull; <code>Uvicorn</code> &bull; <code>Next.js 15</code>
     </td>
   </tr>
   <tr>
