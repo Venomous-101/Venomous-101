@@ -130,26 +130,6 @@ flowchart TD
 - **Verification**: Complete test matrix, custom community node documentation, and full video demonstration.
 - **Registry**: Published as [`n8n-nodes-jev-ai`](https://www.npmjs.com/package/n8n-nodes-jev-ai) on npm.
 
----
-
-## GitHub Performance Telemetry
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Venomous-101&theme=tokyonight&background=0A0A0F&border=1E293B&stroke=00F0FF&ring=FF2D2D&fire=00FF88&currStreakNum=00F0FF" alt="GitHub Streak Stats" width="55%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Venomous-101&show_icons=true&theme=tokyonight&bg_color=0a0a0f&text_color=00f0ff&icon_color=00ff88&title_color=ff2d2d&border_color=1e293b&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Venomous-101&layout=compact&theme=tokyonight&bg_color=0a0a0f&text_color=00f0ff&title_color=ff2d2d&border_color=1e293b&hide_border=false" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Venomous-101&color=00f0ff&style=for-the-badge&label=SYSTEM+ACCESS+TELEMETRY" alt="Profile Views Telemetry" />
-</div>
 
 ---
 
