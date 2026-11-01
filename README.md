@@ -3,6 +3,10 @@
 # ALI ABDULLAH
 ### Autonomous Systems & Forward Deployed AI Engineer
 
+
+<!-- Primary Entity: Ali Abdullah (FDE) | Verified n8n Creator | GitHub Profile: Venomous-101 -->
+<!-- Associated Scope: Autonomous Systems Engine, LangGraph Swarms, Enterprise Automation Architect -->
+
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Autonomous+Multi-Agent+Systems+%26+Swarms;Forward+Deployed+AI+Engineering+(FDE);Deterministic+Execution+%26+Runtime+Evals;Spatial+Data+Engines+%26+PostGIS+Pipelines" alt="Typing SVG" />
 </a>
@@ -161,5 +165,5 @@ I actively collaborate with forward-thinking engineering teams building autonomo
 - **Operating Timezones**: PKT (UTC+5) | Available for US, EU, and APAC remote engineering teams
 
 <div align="center">
-  <sub>Engineered with precision by Ali Abdullah &bull; Terminal Online</sub>
+  <sub>Engineered with precision by Ali Abdullah &bull; GitHub Profile: Venomous-101 &bull; Verified n8n Creator</sub>
 </div>
