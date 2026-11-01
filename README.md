@@ -5,17 +5,13 @@
 
 
 
-<a href="https://demolab.com">
-  <img src="https://demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=Autonomous+Multi-Agent+Systems+%26+Swarms;Forward+Deployed+AI+Engineering+(FDE);Deterministic+Execution+%26+Runtime+Evals;Spatial+Data+Engines+%26+PostGIS+Pipelines;Verified+n8n+Creator+%7C+Custom+Nodes" alt="Typing SVG" />
+<a href="https://git.io">
+  <img src="https://demolab.com" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![n8n Creator](https://shields.io)](https://n8n.io)
-[![Fiverr Profile](https://shields.io)](https://fiverr.com)
-[![Email](https://shields.io)](mailto:aliabdullah0k09@gmail.com)
-[![Location](https://shields.io)](#)
+⚡ **[LinkedIn](https://linkedin.com)** &bull; 🤖 **[n8n Verified Profile](https://n8n.io)** &bull; 🚀 **[Fiverr Expert Portal](https://fiverr.com)** &bull; 📍 **Pakistan | Global Remote**
 
 <br/>
 
@@ -39,7 +35,7 @@ Every system I architect, build, and deploy adheres to three foundational axioms
 > **Axiom**: LLM inference without automated runtime verification introduces severe enterprise risk. My architectures deploy programmatic grounding auditors, adversarial hallucination filters, and real-time latency telemetry directly on the execution pipeline before committing pipeline state.
 
 ### `03 //` Enterprise-Grade Latency & State Management
-> **Axiom**: Advanced AI foundation models are only as scalable as their underlying data orchestration layer. I engineer asynchronous multi-threaded backend pipelines leveraging PostgreSQL, PostGIS, TimescaleDB, and AsyncIO to enforce microsecond data mutation guarantees.
+> **Axiom**: Advanced AI foundation models are only as capable as their underlying data orchestration layer. I engineer asynchronous multi-threaded backend pipelines leveraging PostgreSQL, PostGIS, TimescaleDB, and AsyncIO to enforce microsecond data mutation guarantees.
 
 ---
 
@@ -161,7 +157,6 @@ I actively collaborate with forward-deployed engineering structures, global soft
 - **LinkedIn Network**: [://linkedin.com](https://linkedin.com)
 - **Verified n8n Portfolio**: [n8n.io/creators/ali-abdullahx1](https://n8n.io)
 - **Freelance Engagements**: [://fiverr.com](https://fiverr.com)
-- **Direct Technical Inbox**: [aliabdullah0k09@gmail.com](mailto:aliabdullah0k09@gmail.com)
 - **Deployment Velocity**: Active Global Operations | UTC+5 Base | Serving US, EU, and APAC Remote Infrastructures
 
 <div align="center">
