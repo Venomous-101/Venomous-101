@@ -49,10 +49,6 @@ Security-first, zero-dependency agent runtime in Python. Tool execution is defau
 
 AI board of advisors: eight seated AI thinkers that debate a decision, challenge each other, and reach a scored verdict. Mentioned here by name only while it is in active development.
 
-### Public code
-
-[![GitHub profile statistics for Venomous-101](https://github-readme-stats.vercel.app/api?username=Venomous-101&show_icons=true)](https://github.com/Venomous-101)
-
 ## What I am doing now
 
 - AI Implementation Lead and FDE at Trillium Information Security Systems, building and deploying AI systems for real work
