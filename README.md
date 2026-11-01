@@ -1,164 +1,119 @@
-<div align="center">
+# Ali Abdullah
 
-# ALI ABDULLAH
-### Autonomous Systems & Forward Deployed AI Engineer
+**AI Implementation Lead and FDE at Trillium Information Security Systems**
 
+AI engineer and builder focused on agentic AI, AI automation, and AI security. I build autonomous agent systems that are tested, grounded, and safe to run in production, and I work remotely from Pakistan.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Abdullah-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-abdullah-a42a08319)
 
-<a href="https://git.io">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</a>
+## Who is Ali Abdullah?
 
-<br/>
+**Who is Ali Abdullah?**
+Ali Abdullah is an AI engineer from Pakistan working as AI Implementation Lead and FDE (Forward Deployed Engineer) at Trillium Information Security Systems.
 
-⚡ **[LinkedIn](https://linkedin.com)** &bull; 🤖 **[n8n Verified Profile](https://n8n.io)** &bull; 🚀 **[Fiverr Expert Portal](https://fiverr.com)** &bull; 📍 **Pakistan | Global Remote**
+**What does Ali Abdullah build?**
+Autonomous agent systems, AI automation workflows, and AI security and compliance tools, including EduGuard, Praetor, and Boardroom.
 
-<br/>
+**What is Ali Abdullah expert in?**
+Agentic AI, AI automation with n8n, autonomous agent systems, and AI security and compliance.
 
-<p align="center">
-  <b>Architecting deterministic multi-agent swarms, validation harnesses, and production-grade enterprise data architectures.</b><br/>
-  Bridging unstructured foundation models with relational, spatial, and mission-critical execution runtime environments.
+**Where is Ali Abdullah based?**
+Pakistan, working remotely.
+
+## What I am expert in
+
+- **Agentic AI:** autonomous agent systems that plan, use tools, check their own work, and act within guardrails
+- **AI automation:** workflow automation with n8n, connecting apps, data, and AI models into reliable systems
+- **AI security and compliance:** deterministic guardrails, evaluation harnesses, and audit-first design so AI output stays grounded and safe
+- **Applied AI engineering:** Python, LangChain, LangGraph, APIs, and production deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,git,github" alt="Tooling icons: Python, JavaScript, Node.js, Git, GitHub" />
 </p>
 
----
+## What I have built
 
-</div>
+### EduGuard
 
-## Core Engineering Tenets
+AI compliance agent built for the ITU AI for Good Lab Hackathon, UAE edition, Education domain. It checks lesson plans and classroom AI use against 22 real policy documents using retrieval, then applies deterministic guardrails that an LLM can never override. Every verdict carries verbatim citations, or is marked as insufficient evidence. Simulation only, built on synthetic demo data. Verdicts are COMPLIANT, NEEDS_REVIEW, or NON_COMPLIANT, always with the rule that fired.
 
-Every system I architect, build, and deploy adheres to three foundational axioms:
+[EduGuard on GitHub](https://github.com/Venomous-101/EduGuard)
 
-### `01 //` Deterministic Actuation over Stochastic Guesswork
-> **Axiom**: Autonomous agent architectures cannot rely on unstable prompt engineering heuristics in production environments. Every generative execution flow is strictly constrained by validated Pydantic schemas, bounded LangGraph DAG execution tokens, and robust transaction rollback rules.
+### Praetor
 
-### `02 //` Evaluation-Driven Reliability (Evals First)
-> **Axiom**: LLM inference without automated runtime verification introduces severe enterprise risk. My architectures deploy programmatic grounding auditors, adversarial hallucination filters, and real-time latency telemetry directly on the execution pipeline before committing pipeline state.
+Security-first, zero-dependency agent runtime in Python. Tool execution is default-deny: allowlist, schema checks, integrity fingerprints, and budgets. Evaluation is by executable verification only, never by LLM opinion. Published on PyPI as praetor-agent.
 
-### `03 //` Enterprise-Grade Latency & State Management
-> **Axiom**: Advanced AI foundation models are only as capable as their underlying data orchestration layer. I engineer asynchronous multi-threaded backend pipelines leveraging PostgreSQL, PostGIS, TimescaleDB, and AsyncIO to enforce microsecond data mutation guarantees.
+[Praetor on GitHub](https://github.com/Venomous-101/Praetor) · [Praetor on PyPI](https://pypi.org/project/praetor-agent/)
 
----
+### Boardroom
 
-## Autonomous Agent Systems Blueprint
+AI board of advisors: eight seated AI thinkers that debate a decision, challenge each other, and reach a scored verdict. Mentioned here by name only while it is in active development.
 
-Below is the high-performance architectural lifecycle deployed across my multi-agent platforms and automated workflow systems:
+### Public code
 
-```mermaid
-flowchart TD
-    classDef gw fill:#111118,stroke:#00f0ff,stroke-width:1.5px,color:#00f0ff;
-    classDef sup fill:#111118,stroke:#00ff88,stroke-width:1.5px,color:#00ff88;
-    classDef eval fill:#111118,stroke:#ffaa00,stroke-width:1.5px,color:#ffaa00;
-    classDef act fill:#111118,stroke:#ff2d2d,stroke-width:1.5px,color:#ff2d2d;
-    classDef db fill:#0a0a0f,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
+[![GitHub profile statistics for Venomous-101](https://github-readme-stats.vercel.app/api?username=Venomous-101&show_icons=true)](https://github.com/Venomous-101)
 
-    subgraph S1 ["Phase 1: Ingestion & Validation Gateway"]
-        N1["Streaming Real-Time Events<br/>Webhooks, Event Hooks & Feeds"]:::gw
-        N2["Structural Validation Layer<br/>Strict JSON & Pydantic Schemas"]:::gw
-    end
+## What I am doing now
 
-    subgraph S2 ["Phase 2: Cognitive State Routing"]
-        N3["LangGraph Swarm Cluster<br/>Deterministic State Engines"]:::sup
-        N4["Episodic & Vector Memory<br/>Context Retrieval Pipelines"]:::sup
-    end
+- AI Implementation Lead and FDE at Trillium Information Security Systems, building and deploying AI systems for real work
+- Building Boardroom, an AI board of advisors, in active development
+- Building EduGuard for the ITU AI for Good Lab Hackathon, solution due November 2026
+- Verified creator on the n8n Creator Portal, building workflow automations
+- In the Internet Society Fellowship pipeline: Pre-Fellowship Training complete, project plan in progress
+- Starting independent AI consulting for international clients
 
-    subgraph S3 ["Phase 3: Adversarial Evals & Guardrails"]
-        N5["Grounding Auditor Engine<br/>Zero-Hallucination Matrix"]:::eval
-        N6["Reflexion Optimization Loop<br/>Continuous In-Context Learning"]:::eval
-    end
+## Credentials
 
-    subgraph S4 ["Phase 4: Deterministic Tool Actuation"]
-        N7["Spatial PostGIS Engines<br/>Transactional SQL Execution"]:::act
-        N8["Verified External Integrations<br/>Hardened REST/GraphQL Dispatch"]:::act
-    end
+Associate Degree in Computer Science, NCBA&E, 2023 to 2025, CGPA 3.05.
 
-    S1 --> S2
-    S2 --> S3
-    S3 -->|Verified Safe State| S4
-    S3 -->|Anomaly / Policy Violation| S2
-    S4 --> DB[("PostgreSQL 16 + PostGIS Layer<br/>Distributed State Checkpoint")]:::db
-```
-
----
-
-## Technical Stack & Production Arsenal
-
-<table>
-  <thead>
-    <tr>
-      <th width="30%">Domain</th>
-      <th width="70%">Technologies, Tools & Enterprise Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Agentic Systems & LLM Engines</b></td>
-      <td>
-        <code>LangGraph</code> &bull; <code>LangChain</code> &bull; <code>n8n Workflows</code> &bull; <code>Google GenAI SDK</code> &bull; <code>PydanticAI</code> &bull; <code>FastEmbed</code> &bull; <code>OpenAI API</code> &bull; <code>Automated Model Evals</code>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Runtime Environments & Systems</b></td>
-      <td>
-        <code>Python 3.12+</code> &bull; <code>TypeScript / Node.js</code> &bull; <code>FastAPI</code> &bull; <code>AsyncIO / Uvicorn</code> &bull; <code>Next.js 15 App Router</code> &bull; <code>REST / WebSockets</code>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Data Engine & Spatial Architectures</b></td>
-      <td>
-        <code>PostgreSQL 16</code> &bull; <code>PostGIS 3.4+</code> &bull; <code>TimescaleDB Vector</code> &bull; <code>GeoAlchemy2</code> &bull; <code>Redis Cache</code> &bull; <code>SQLAlchemy Async</code>
-      </td>
-    </tr>
-    <tr>
-      <td><b>DevSecOps & System Reliability</b></td>
-      <td>
-        <code>Docker Containerization</code> &bull; <code>GitHub Actions CI/CD</code> &bull; <code>Linux Admin</code> &bull; <code>SLSA Provenance Tracking</code> &bull; <code>CodeQL Security Scanning</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## Featured Production Engineering
-
-### [n8n-nodes-jev-ai](https://github.com)
-*Production-ready TypeScript enterprise workflow integration node published directly to the npm registry.*
-
-- **Ecosystem Architecture**: Native custom node for local, self-hosted, and cloud-based n8n automation instances.
-- **Enterprise Security Hardening**: Engineered with explicit guardrails preventing prototype pollution vulnerabilities, SSRF surface risks, and unvalidated large payloads. Built with strict SLSA compilation provenance.
-- **Production Grounding**: Complete automated testing matrices, verified community documentation structures, and dynamic deployment handlers.
-- **Package Registry Entry**: Deployed and maintained actively as [`n8n-nodes-jev-ai`](https://npmjs.com) on the global npm package registry.
-
----
-
-## Systems Architecture Deep Dive
+21 certifications across HP LIFE, ITU Academy, the Internet Society, FAO, UN CC:e-Learn, and LinkedIn, including AI governance, AI for business, online trust and safety, and Internet Security. Full list below.
 
 <details>
-<summary><b>INTERACTIVE SPECS: Mission-Critical Agent Design Standards</b></summary>
-<br/>
+<summary>Full certification list</summary>
 
-### 1. Bounded Graphical Execution
-Every autonomous workflow loop operates inside an explicitly iteration-bounded Directed Acyclic Graph (DAG) using LangGraph and custom n8n logic gates. If an agent structure registers more than 5 recursive calls without state convergence, a circuit breaker trips automatically, redirecting execution state payloads to human-in-the-loop processing queues.
+**HP LIFE (4)**
 
-### 2. PostGIS Spatial Operations
-Unlike standard conversational text-based RAG engines, my spatial engineering processes combine LLM routing with exact geography queries (`ST_DWithin`, `ST_Contains`). This guarantees automated pipelines compute precise geographic bounds and logistic data maps with zero geometric hallucinations.
+- AI for Business Professionals, Oct 2026
+- Effective Leadership, Oct 2026
+- Starting a Small Business, Oct 2026
+- Strategic Planning in the AI Age, Oct 2026
 
-### 3. Asynchronous Optimization & Evals
-Completed production pipelines constantly cross-examine structured outputs against programmatic truth sheets. Discovered data insights are automatically recorded in localized episodic memory tables, generating immediate runtime contextual upgrades for future parallel swarm runs.
+**ITU Academy: AI governance fundamentals (6)**
+
+- AI governance: fundamentals (course badge)
+- Introduction to AI Governance
+- Bias in AI and Accountability Mechanisms
+- AI and Data Governance
+- Approaches to AI Regulation
+- Ethical Principles in AI
+
+**Internet Society (2)**
+
+- Introduction to Online Trust and Safety, Oct 2026
+- Internet Security, Certificate of Completion, issued 31 Oct 2026 ([verify credential](https://certificates.isoc.org/a6ecd194-b1de-48a6-ba9a-5efd460ace47))
+
+**FAO (5)**
+
+- Promoting youth employment and reducing child labour in agriculture
+- Climate Change Negotiations for Agriculture Stakeholders
+- Sustainable food systems: An introduction
+- Sustainable food systems: Concept and framework
+- Strengthening national science-policy interfaces for agrifood systems
+
+**UN CC:e-Learn (1)**
+
+- Net Zero 101: What, Why and How
+
+**LinkedIn (3)**
+
+- LinkedIn Advertising Fundamentals Certification, issued May 2026, expires May 2028
+- CPR and AED, Saint Louis University, issued Feb 2026
+- LinkedIn Content and Creative Design Certification, issued Feb 2026, expires Feb 2028
 
 </details>
 
----
+## Connect
 
-## Direct Transmission / Communications
+- [Ali Abdullah on LinkedIn](https://www.linkedin.com/in/ali-abdullah-a42a08319)
 
-I actively collaborate with forward-deployed engineering structures, global software automation teams, and institutions building high-stakes autonomous data intelligence tools.
-
-- **LinkedIn Network**: [://linkedin.com](https://linkedin.com)
-- **Verified n8n Portfolio**: [n8n.io/creators/ali-abdullahx1](https://n8n.io)
-- **Freelance Engagements**: [://fiverr.com](https://fiverr.com)
-- **Deployment Velocity**: Active Global Operations | UTC+5 Base | Serving US, EU, and APAC Remote Infrastructures
-
-<div align="center">
-  <sub>System Engineered by Ali Abdullah (FDE) &bull; Handle Reference: Venomous-101 &bull; Verified n8n Creator Node</sub>
-</div>
+Open to AI engineering work, consulting, and collaboration. Reach me on LinkedIn.
