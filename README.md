@@ -2,7 +2,7 @@
 
 **AI Implementation Lead and FDE at Trillium Information Security Systems**
 
-AI engineer and builder focused on agentic AI, AI automation, and AI security. I build autonomous agent systems that are tested, grounded, and safe to run in production, and I work remotely from Pakistan.
+I build AI systems that do real work, safely. AI agents, automations, and safety tools for schools and businesses. I am based in Pakistan and work remotely.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Abdullah-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ali-abdullah-a42a08319)
 
@@ -12,20 +12,20 @@ AI engineer and builder focused on agentic AI, AI automation, and AI security. I
 Ali Abdullah is an AI engineer from Pakistan working as AI Implementation Lead and FDE (Forward Deployed Engineer) at Trillium Information Security Systems.
 
 **What does Ali Abdullah build?**
-Autonomous agent systems, AI automation workflows, and AI security and compliance tools, including EduGuard, Praetor, and Boardroom.
+AI agents that can plan and do tasks on their own, automations that connect apps and AI models, and safety tools that check AI work against clear rules. His main projects are EduGuard, Praetor, and Boardroom.
 
 **What is Ali Abdullah expert in?**
-Agentic AI, AI automation with n8n, autonomous agent systems, and AI security and compliance.
+AI agents, AI automation with n8n, and AI safety and compliance. In simple terms: he makes AI useful, automatic, and safe.
 
 **Where is Ali Abdullah based?**
 Pakistan, working remotely.
 
 ## What I am expert in
 
-- **Agentic AI:** autonomous agent systems that plan, use tools, check their own work, and act within guardrails
-- **AI automation:** workflow automation with n8n, connecting apps, data, and AI models into reliable systems
-- **AI security and compliance:** deterministic guardrails, evaluation harnesses, and audit-first design so AI output stays grounded and safe
-- **Applied AI engineering:** Python, LangChain, LangGraph, APIs, and production deployment
+- **AI agents:** AI systems that can plan steps, use tools, check their own work, and finish tasks on their own, always inside clear safety rules
+- **AI automation:** using n8n to connect apps, data, and AI models, so work people used to do by hand runs on its own, reliably
+- **AI safety and compliance:** fixed safety rules and checks that keep AI honest and grounded, so its answers stay true to real sources and safe to use
+- **Applied AI engineering:** Python, LangChain, LangGraph, APIs, and putting AI systems live in production
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,git,github" alt="Tooling icons: Python, JavaScript, Node.js, Git, GitHub" />
@@ -35,19 +35,19 @@ Pakistan, working remotely.
 
 ### EduGuard
 
-AI compliance agent built for the ITU AI for Good Lab Hackathon, UAE edition, Education domain. It checks lesson plans and classroom AI use against 22 real policy documents using retrieval, then applies deterministic guardrails that an LLM can never override. Every verdict carries verbatim citations, or is marked as insufficient evidence. Simulation only, built on synthetic demo data. Verdicts are COMPLIANT, NEEDS_REVIEW, or NON_COMPLIANT, always with the rule that fired.
+A checker for schools. It reads a lesson plan or a classroom AI plan, compares it against 22 real policy documents, and gives a clear verdict: it follows the rules, it needs a second look, or it breaks a rule. The safety rules are fixed, so no AI answer can override them. Every verdict shows the exact rule that fired, with the original wording as proof. Built for the ITU AI for Good Lab Hackathon, UAE edition, Education domain. Simulation only, built on practice data. Not running in real schools. Verdicts are COMPLIANT, NEEDS_REVIEW, or NON_COMPLIANT, always with the rule that fired.
 
 [EduGuard on GitHub](https://github.com/Venomous-101/EduGuard)
 
 ### Praetor
 
-Security-first, zero-dependency agent runtime in Python. Tool execution is default-deny: allowlist, schema checks, integrity fingerprints, and budgets. Evaluation is by executable verification only, never by LLM opinion. Published on PyPI as praetor-agent.
+A safe way to run AI agents. Think of it as a security guard for AI tools: nothing runs unless it is on the approved list, every tool call is checked against clear rules, and every action stays inside a set budget. Results are judged by tests that actually run, never by an AI's opinion. Built in Python with no outside dependencies. Published on PyPI as praetor-agent.
 
 [Praetor on GitHub](https://github.com/Venomous-101/Praetor) · [Praetor on PyPI](https://pypi.org/project/praetor-agent/)
 
 ### Boardroom
 
-AI board of advisors: eight seated AI thinkers that debate a decision, challenge each other, and reach a scored verdict. Mentioned here by name only while it is in active development.
+A board of eight AI advisors that debate a decision, challenge each other's thinking, and reach a scored verdict. Mentioned here by name only while it is in active development.
 
 ## What I am doing now
 
